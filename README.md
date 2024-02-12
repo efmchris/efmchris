@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @efmchris
-- 👀 I’m interested in early math educaiton for children during their first eight years.
+- 👀 I’m interested in early math education for children during their first eight years.
 - 💞️ I’m looking to collaborate on early math education.
-- 📫 How to reach me: Chris@KitchenTableMath.com or through my website www.EarlyFamilyMath.org.
+- 📫 How to reach me: Chris@EarlyFamilyMath.org or through my website www.EarlyFamilyMath.org.
 
 <!---
 efmchris/efmchris is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
